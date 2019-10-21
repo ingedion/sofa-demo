@@ -1,0 +1,51 @@
+<!doctype html>
+<!--使用模板标签，接收数据-->
+<html xmlns:th="http://www.thymeleaf.org">
+	<head>
+		<meta charset="UTF-8">
+		<title>用户注册</title>
+		<link rel="stylesheet" href="css/common.css" />
+		<script type="text/javascript" src="js/jqmin.js"></script>
+        <script type="text/javascript" src="js/jquery.dialog.js"></script>
+		<script type="text/javascript" src="js/register.js"></script>
+	</head>
+	<body>
+		<img class="logo" src="images/logo.png" />
+		<div class="main">
+			<div class="main_left"></div>
+			<div class="main_right">
+				<div class="right_center" style="margin-top: 35px;">
+					<div class="form_title">用户注册</div>
+					<form action="/register" method="post" id="regForm">
+						<div class="div_input">
+							<input type="text" id="username" name="username" 
+								class="myinput" placeholder="登录名" required="required" />
+						</div>
+						<div class="div_input">
+							<input type="text" id="nickname" name="nickname" 
+								class="myinput" placeholder="昵称" required="required" />
+						</div>
+						<div class="div_input">
+							<input type="password" id="password" name="password" 
+								class="myinput" placeholder="登录密码" required="required" />
+						</div>
+						<div class="div_input">
+							<input type="password" id="repassword" name="repassword" 
+								class="myinput" placeholder="确认登录密码" required="required" />
+						</div>
+						<div class="div_input">
+							<input id="submitBtn" type="submit" class="mybtn" value="注    册" />
+						</div>
+					</form>
+					<div class="div_a">
+						<div class="_l">
+							<a class="a_1" href="login.html">已有账号？去登录</a>
+						</div>
+						<div class="_r"></div>
+					</div>
+					<div class="error" th:text="${error}"></div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

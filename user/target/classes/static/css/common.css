@@ -1,0 +1,135 @@
+html, body {
+	margin:0;
+	padding:0;
+	height:100%;
+}
+body {
+	background-image: linear-gradient(to bottom right, #0078E2, #00B0F3);
+    font-family: "PingFangSC-Regular";
+}
+.logo {
+	width: 33px;
+	position: absolute;
+	left: 30px;
+	top: 20px;
+}
+div.main {
+	width: 1280px;
+	height: 560px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -640px;
+	margin-top: -280px;
+}
+
+div.main_left {
+	width: 800px;
+	height: 560px;
+	position: absolute;
+	left: 7px;
+	background-image: url(../images/img.png);
+}
+
+div.main_left {
+	width: 800px;
+	height: 560px;
+	position: absolute;
+	left: 7px;
+	background-image: url(../images/img.png);
+}
+
+div.main_right {
+	width: 348px;
+	height: 420px;
+	position: absolute;
+	left: 826px;
+	top: 70px;
+	background-color: #fff;
+}
+
+.right_center {
+	width: 260px;
+	margin: 0 auto;
+	margin-top: 70px;
+}
+
+@font-face {
+  font-family: "PingFang-SC-Bold";
+  src: url(../font/PingFang-SC-Bold.ttf) format("truetype");
+}
+div.form_title {
+	margin: 0 auto;
+	font-family: "PingFang-SC-Bold";
+	font-size: 18px;
+	color: #1C95FF;
+	letter-spacing: 5px;
+	text-align: center;
+}
+div.div_input {
+	margin-top: 20px;
+	text-align: center;
+}
+input.myinput {
+	width: 248px;
+	height: 38px;
+	border: 1px solid #C0C4CC;
+	border-radius: 4px;
+	padding: 0;
+	padding-left: 10px;
+}
+
+input.mybtn {
+	background-image: linear-gradient(90deg, #00B0F3 2%, #0078E2 100%);
+	border-radius: 4px;
+	border: 1px solid #fff;
+	cursor: pointer;
+	*cursor: hand;
+	text-align: center;
+	width: 260px;
+	height: 40px;
+	outline: none;
+	font-family: PingFangSC-Regular;
+	font-size: 14px;
+	color: #FFFFFF;
+}
+
+div.div_a {
+	margin-top: 5px;
+}
+
+div.div_a::after {
+	content: "";
+	display: block;
+	clear: both;
+	width: 0;
+	height: 0;
+}
+
+div.div_a a {
+	font-family: PingFangSC-Regular;
+	font-size: 14px;
+	text-decoration: none;
+}
+
+div._l {
+	float: left;
+}
+div._r{
+	float: right;
+}
+
+a.a_1 {
+	color: #0078E2;
+}
+
+a.a_2 {
+	color: #9B9B9B;
+}
+
+.error {
+	font-family: "PingFang-SC-Bold";
+	font-size: 18px;
+	color: red;
+	text-align: center;
+}

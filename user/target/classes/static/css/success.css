@@ -1,0 +1,181 @@
+html, body {
+    margin:0;
+    padding:0;
+    height:100%;
+}
+
+@font-face {
+    font-family: "SourceHanSansCN-Normal";
+    src: url(../font/SourceHanSansCN-Medium.ttf) format("truetype");
+}
+
+body {
+    font-family: "SourceHanSansCN-Normal"
+}
+
+.top {
+    background: #EAEAEA;
+    line-height: 40px;
+    padding-left: 56.5px;
+    font-size: 15px;
+    color: #986510;
+    letter-spacing: 1px;
+}
+
+.content {
+    width: 1167px;
+    margin: 0 auto;
+}
+
+.p_list {
+    font-size: 19px;
+    color: #0078E2;
+    width: 135px;
+    text-align: center;
+}
+
+.line {
+    height: 4px;
+    background: #F4F4F4;
+}
+
+.line div{
+    width: 135px;
+    height: 4px;
+    background: #0078E2;
+}
+
+.table .tbody {
+    background: #FDFDFD;
+    border: 1px solid #EAEAEA;
+}
+
+.t1,.t2,.t3,.t4,.t5 {
+    display: inline-block;
+    text-align: center;
+    font-size: 16px;
+    vertical-align: middle;
+}
+
+.t1 {
+    width: 400px;
+    color: #4A4A4A;
+}
+.t2 {
+    width: 150px;
+    color: #4A4A4A;
+}
+.t3 {
+    width: 150px;
+}
+.t4 {
+    width: 220px;
+}
+.t5 {
+    width: 220px;
+}
+.item {
+    margin: 15px 0;
+}
+
+.item .t5 {
+    color: #F56423;
+    font-weight: bold;
+}
+.item .t1 {
+    text-align: left;
+    margin-left: 50px;
+    width: 350px;
+}
+
+.sep {
+    width: 1100px;
+    margin: 15px auto;
+    height: 0;
+    border-top: 1px solid #E7E7E7;
+}
+
+.minus,.plus,.num {
+    box-sizing:content-box;
+    height: 40px;
+    border: 1px solid #D8DCE6;
+    padding:0;
+    margin:0;
+    outline: none;
+    font-size: 16px;
+    vertical-align: middle;
+}
+
+.minus {
+    width: 40px;
+    background-color: #F5F7FA;
+    border-radius: 4px 0px 0px 4px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 17px;
+    color: #ccc;
+}
+.plus {
+    width: 40px;
+    background-color: #F5F7FA;
+    border-radius: 0px 4px 4px 0px;
+    cursor: pointer;
+    font-size: 28px;
+    line-height: 40px;
+}
+.num {
+    width: 70px;
+    text-align: center;
+    background: #fff;
+    border-left: none;
+    border-right: none;
+}
+.bottom {
+    text-align: right;
+    font-weight: bold;
+    margin-right: 0;
+}
+.bottom td {
+    line-height: 30px;
+    padding: 0;
+    margin: 0;
+
+}
+
+.bottom td:nth-child(2) {
+    text-align: left;
+}
+
+.bottom div {
+    height: 30px;
+}
+
+.bottom span{
+    color: #F56423;
+}
+
+.t {
+    text-align: right;
+    font-family: SourceHanSansCN-Medium;
+    font-size: 16px;
+    color: #000000;
+}
+.t,.v{
+    display: inline-block;
+    line-height: 30px;
+    padding:0px;
+}
+.v {
+    text-align: left;
+    color: #F56423;
+}
+
+.buy {
+    background: #F56423;
+    border-radius: 4px;
+    color: #fff;
+    outline: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    border: none;
+}

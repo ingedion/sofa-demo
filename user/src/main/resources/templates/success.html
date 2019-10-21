@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>登录查询</title>
+    <link rel="stylesheet" href="css/success.css" />
+    <script type="text/javascript" src="js/jqmin.js"></script>
+    <script type="text/javascript" src="js/jquery.dialog.js"></script>
+    <script type="text/javascript" src="js/success.js"></script>
+</head>
+<body>
+<div class="main">
+    <div class="top">
+        欢迎光临！
+        <span th:text="${session.loginUser.username}"></span>
+    </div>
+    <div class="content">
+        <div class="p_list">商品列表</div>
+        <div class="line"><div></div></div>
+        <div class="table">
+            <div class="thead">
+                <div class="t1">商品信息</div>
+                <div class="t2">库存</div>
+                <div class="t3">单价</div>
+                <div class="t4">购买数量</div>
+                <div class="t5">金额小计</div>
+            </div>
+            <div class="tbody">
+                <div class="item" th:each="p,sta:${pList}">
+                    <div class="t1">
+                        <img th:src="@{${p.imgurl}}" width="81px" style="vertical-align:middle;" />
+                        <span th:text="${p.name}"></span>
+                    </div>
+                    <div class="t2" th:text="${p.stock}"></div>
+                    <div class="t3">￥<span th:text="${p.price}"></span></div>
+                    <div class="t4">
+                        <input type="button" value="一" class="minus" /><input
+                            th:attr="price=${p.price},stock=${p.stock},pid=${p.id}"
+                            class="num" value="0" /><input class="plus" type="button" value="+" />
+                    </div>
+                    <div class="t5">￥<span>0.00</span></div>
+                    <div class="sep"th:if="${!sta.last}"></div>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <table class="bottom" align="right">
+                <tr>
+                    <td>
+                        <div class="t">账户余额：</div>
+                    </td>
+                    <td>
+                        <span>￥</span>
+                        <div class="v" id="balance1" th:text="${session.loginUser.balance}">0</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="t">商品价格：</div>
+                    </td>
+                    <td>
+                        <span>￥</span>
+                        <div class="v" id="balance2">0</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="t">购买后余额：</div>
+                    </td>
+                    <td>
+                        <span>￥</span>
+                        <div class="v" id="balance3" th:text="${session.loginUser.balance}">0</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <input id="confirmBuy" class="buy" type="button" value="确认购买" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
+</body>
+</html>

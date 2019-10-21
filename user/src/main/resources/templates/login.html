@@ -1,0 +1,45 @@
+<!doctype html>
+<!--使用模板标签，接收数据-->
+<html xmlns:th="http://www.thymeleaf.org">
+	<head>
+		<meta charset="UTF-8">
+		<title>用户登录</title>
+		<link rel="stylesheet" href="css/common.css" />
+		<script type="text/javascript" src="js/jqmin.js"></script>
+        <script type="text/javascript" src="js/jquery.dialog.js"></script>
+		<script type="text/javascript" src="js/login.js"></script>
+	</head>
+	<body>
+		<img class="logo" src="images/logo.png" />
+		<div class="main">
+			<div class="main_left"></div>
+			<div class="main_right">
+				<div class="right_center">
+					<div class="form_title">用户登录</div>
+					<form action="/login" method="post" id="loginForm">
+						<div class="div_input">
+							<input type="text" class="myinput" name="username" 
+								placeholder="请输入用户名" required="required" />
+						</div>
+						<div class="div_input">
+							<input type="password" class="myinput" name="password" 
+								placeholder="请输入密码" required="required" />
+						</div>
+						<div class="div_input">
+							<input id="submitBtn" type="submit" class="mybtn" value="登    录" />
+						</div>
+					</form>
+					<div class="div_a">
+						<div class="_l">
+							<a class="a_1" href="register.html">去注册</a>
+						</div>
+						<div class="_r">
+							<a class="a_2" href="javascript:;">忘记登录密码？</a>
+						</div>
+					</div>
+					<div class="error" th:text="${error}"></div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

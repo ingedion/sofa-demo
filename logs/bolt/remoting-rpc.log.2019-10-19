@@ -1,0 +1,7 @@
+2019-10-19 20:09:31,716 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2019-10-19 20:09:32,590 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2019-10-19 20:09:33,245 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.jx.product.service.ProductService-5-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2019-10-19 20:42:19,710 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2019-10-19 20:42:50,907 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2019-10-19 21:34:00,187 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2019-10-19 21:34:31,225 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes

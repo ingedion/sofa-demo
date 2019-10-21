@@ -1,0 +1,273 @@
+2019-10-20 10:03:48,424 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 11:19:12,518 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 11:19:13,883 INFO  main                             - Registering component: reference:com.jx.user.service.UserService:service10001#-810798116
+2019-10-20 11:19:13,883 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:19:44,744 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:19:44,744 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:19:44,746 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:19:45,555 INFO  main                             - Registering component: service:com.jx.user.service.UserService:service10001
+2019-10-20 11:19:45,555 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:19:45,559 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:19:45,560 INFO  main                             -  <<Out Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:19:45,571 INFO  main                             -  <<Out Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:19:45,571 INFO  main                             - Register Service - com.jx.user.service.UserService:service10001
+2019-10-20 11:20:31,253 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 11:20:32,733 INFO  main                             - Registering component: reference:com.jx.user.service.UserService:service10001#-66340238
+2019-10-20 11:20:32,733 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:21:03,508 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:21:03,508 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:21:03,510 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:21:04,363 INFO  main                             - Registering component: service:com.jx.user.service.UserService:service10001
+2019-10-20 11:21:04,363 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:21:04,368 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:21:04,368 INFO  main                             -  <<Out Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:21:04,380 INFO  main                             -  <<Out Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:21:04,380 INFO  main                             - Register Service - com.jx.user.service.UserService:service10001
+2019-10-20 11:21:33,563 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 11:21:35,172 INFO  main                             - Registering component: reference:com.jx.user.service.UserService:service10001#-515019519
+2019-10-20 11:21:35,173 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:22:05,919 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:22:05,920 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:22:05,922 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:22:06,848 INFO  main                             - Registering component: service:com.jx.user.service.UserService:service10001
+2019-10-20 11:22:06,848 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:22:06,858 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:22:06,858 INFO  main                             -  <<Out Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:22:06,881 INFO  main                             -  <<Out Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:22:06,881 INFO  main                             - Register Service - com.jx.user.service.UserService:service10001
+2019-10-20 11:26:40,188 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 11:26:41,521 INFO  main                             - Registering component: reference:com.jx.user.service.UserService:service10001#1152340639
+2019-10-20 11:26:41,522 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:27:12,222 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:27:12,222 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:27:12,224 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:27:13,021 INFO  main                             - Registering component: service:com.jx.user.service.UserService:service10001
+2019-10-20 11:27:13,022 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:27:13,026 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:27:13,026 INFO  main                             -  <<Out Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:27:13,037 INFO  main                             -  <<Out Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:27:13,037 INFO  main                             - Register Service - com.jx.user.service.UserService:service10001
+2019-10-20 11:31:20,957 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 11:31:22,425 INFO  main                             - Registering component: reference:com.jx.user.service.UserService:service10001#959557500
+2019-10-20 11:31:22,425 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:31:53,147 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:31:53,147 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:31:53,149 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:31:54,135 INFO  main                             - Registering component: service:com.jx.user.service.UserService:service10001
+2019-10-20 11:31:54,135 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:31:54,141 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:31:54,141 INFO  main                             -  <<Out Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 11:31:54,154 INFO  main                             -  <<Out Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 11:31:54,154 INFO  main                             - Register Service - com.jx.user.service.UserService:service10001
+2019-10-20 14:29:38,701 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 14:29:41,621 INFO  main                             - Registering component: reference:com.jx.product.service.ProductService:service10001#-1059172809
+2019-10-20 14:29:41,621 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:29:44,470 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 14:29:46,230 INFO  main                             - Registering component: reference:com.jx.user.service.UserService:service10001#-55046771
+2019-10-20 14:29:46,230 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:30:12,948 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:30:12,949 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:30:12,951 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:30:13,783 INFO  main                             - Registering component: service:com.jx.product.service.ProductService:service10001
+2019-10-20 14:30:13,783 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:30:13,789 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:30:13,789 INFO  main                             -  <<Out Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:30:13,803 INFO  main                             -  <<Out Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:30:13,803 INFO  main                             - Register Service - com.jx.product.service.ProductService:service10001
+2019-10-20 14:30:17,070 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:30:17,071 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:30:17,075 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:30:17,076 INFO  main                             - Registering component: reference:com.jx.product.service.ProductService:service10001#580437997
+2019-10-20 14:30:17,077 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:30:47,089 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:30:47,089 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:30:47,090 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:30:48,122 INFO  main                             - Registering component: service:com.jx.user.service.UserService:service10001
+2019-10-20 14:30:48,122 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:30:48,126 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:30:48,127 INFO  main                             -  <<Out Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:30:48,141 INFO  main                             -  <<Out Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:30:48,141 INFO  main                             - Register Service - com.jx.user.service.UserService:service10001
+2019-10-20 14:33:16,311 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 14:33:17,780 INFO  main                             - Registering component: reference:com.jx.user.service.UserService:service10001#-880097570
+2019-10-20 14:33:17,780 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:33:48,541 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:33:48,542 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:33:48,544 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:33:48,545 INFO  main                             - Registering component: reference:com.jx.product.service.ProductService:service10001#773667004
+2019-10-20 14:33:48,545 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:34:18,554 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:34:18,554 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:34:18,555 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:34:19,453 INFO  main                             - Registering component: service:com.jx.user.service.UserService:service10001
+2019-10-20 14:34:19,454 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:34:19,458 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:34:19,458 INFO  main                             -  <<Out Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:34:19,471 INFO  main                             -  <<Out Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:34:19,471 INFO  main                             - Register Service - com.jx.user.service.UserService:service10001
+2019-10-20 14:42:05,105 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 14:42:06,589 INFO  main                             - Registering component: reference:com.jx.user.service.UserService:service10001#1331664152
+2019-10-20 14:42:06,589 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:42:37,322 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:42:37,322 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:42:37,325 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:42:37,326 INFO  main                             - Registering component: reference:com.jx.product.service.ProductService:service10001#1331664152
+2019-10-20 14:42:37,326 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:43:07,335 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:43:07,335 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:43:07,336 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:43:08,185 INFO  main                             - Registering component: service:com.jx.user.service.UserService:service10001
+2019-10-20 14:43:08,185 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:43:08,189 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:43:08,189 INFO  main                             -  <<Out Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:43:08,201 INFO  main                             -  <<Out Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:43:08,201 INFO  main                             - Register Service - com.jx.user.service.UserService:service10001
+2019-10-20 14:44:59,040 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 14:45:01,228 INFO  main                             - Registering component: reference:com.jx.product.service.ProductService:service10001#580437997
+2019-10-20 14:45:01,228 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:45:02,533 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 14:45:03,246 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:45:03,246 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:45:03,249 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:45:04,344 INFO  main                             - Registering component: service:com.jx.product.service.ProductService:service10001
+2019-10-20 14:45:04,344 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:45:04,354 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:45:04,354 INFO  main                             -  <<Out Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:45:04,372 INFO  main                             -  <<Out Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:45:04,372 INFO  main                             - Register Service - com.jx.product.service.ProductService:service10001
+2019-10-20 14:45:04,417 INFO  main                             - Registering component: reference:com.jx.user.service.UserService:service10001#-821488839
+2019-10-20 14:45:04,418 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:45:06,169 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:45:06,169 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:45:06,171 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:45:06,172 INFO  main                             - Registering component: reference:com.jx.product.service.ProductService:service10001#-821488839
+2019-10-20 14:45:06,172 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:45:06,307 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:45:06,308 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:45:06,308 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:45:07,140 INFO  main                             - Registering component: service:com.jx.user.service.UserService:service10001
+2019-10-20 14:45:07,140 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:45:07,143 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:45:07,143 INFO  main                             -  <<Out Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:45:07,153 INFO  main                             -  <<Out Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:45:07,153 INFO  main                             - Register Service - com.jx.user.service.UserService:service10001
+2019-10-20 14:48:33,647 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 14:48:35,575 INFO  main                             - Registering component: reference:com.jx.product.service.ProductService:service10001#-458459106
+2019-10-20 14:48:35,575 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:48:37,760 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:48:37,761 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:48:37,764 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:48:38,594 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 14:48:39,044 INFO  main                             - Registering component: service:com.jx.product.service.ProductService:service10001
+2019-10-20 14:48:39,044 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:48:39,052 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:48:39,052 INFO  main                             -  <<Out Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:48:39,069 INFO  main                             -  <<Out Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:48:39,069 INFO  main                             - Register Service - com.jx.product.service.ProductService:service10001
+2019-10-20 14:48:40,523 INFO  main                             - Registering component: reference:com.jx.user.service.UserService:service10001#-691811916
+2019-10-20 14:48:40,523 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:48:42,019 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:48:42,019 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:48:42,022 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:48:42,024 INFO  main                             - Registering component: reference:com.jx.product.service.ProductService:service10001#-1979412314
+2019-10-20 14:48:42,024 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:48:42,163 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:48:42,163 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:48:42,165 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:48:43,003 INFO  main                             - Registering component: service:com.jx.user.service.UserService:service10001
+2019-10-20 14:48:43,003 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:48:43,007 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:48:43,007 INFO  main                             -  <<Out Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:48:43,019 INFO  main                             -  <<Out Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:48:43,019 INFO  main                             - Register Service - com.jx.user.service.UserService:service10001
+2019-10-20 14:51:12,508 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 14:51:14,418 INFO  main                             - Registering component: reference:com.jx.product.service.ProductService:service10001#-579328307
+2019-10-20 14:51:14,418 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:51:16,269 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:51:16,270 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:51:16,276 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:51:17,348 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 14:51:17,742 INFO  main                             - Registering component: service:com.jx.product.service.ProductService:service10001
+2019-10-20 14:51:17,743 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:51:17,748 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:51:17,748 INFO  main                             -  <<Out Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:51:17,762 INFO  main                             -  <<Out Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:51:17,762 INFO  main                             - Register Service - com.jx.product.service.ProductService:service10001
+2019-10-20 14:51:19,091 INFO  main                             - Registering component: reference:com.jx.user.service.UserService:service10001#-112350368
+2019-10-20 14:51:19,091 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:51:20,755 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:51:20,755 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:51:20,757 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:51:20,758 INFO  main                             - Registering component: reference:com.jx.product.service.ProductService:service10001#-112350368
+2019-10-20 14:51:20,758 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:51:20,894 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:51:20,894 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:51:20,896 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:51:21,798 INFO  main                             - Registering component: service:com.jx.user.service.UserService:service10001
+2019-10-20 14:51:21,798 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:51:21,801 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:51:21,801 INFO  main                             -  <<Out Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:51:21,811 INFO  main                             -  <<Out Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:51:21,811 INFO  main                             - Register Service - com.jx.user.service.UserService:service10001
+2019-10-20 14:53:27,655 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 14:53:32,803 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 14:53:34,534 INFO  main                             - Registering component: reference:com.jx.user.service.UserService:service10001#1971577477
+2019-10-20 14:53:34,534 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:53:40,681 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 14:53:42,834 INFO  main                             - Registering component: reference:com.jx.product.service.ProductService:service10001#-1309329513
+2019-10-20 14:53:42,834 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:53:44,274 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 14:53:44,758 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:53:44,758 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:53:44,761 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:53:45,837 INFO  main                             - Registering component: service:com.jx.product.service.ProductService:service10001
+2019-10-20 14:53:45,837 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:53:45,844 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:53:45,844 INFO  main                             -  <<Out Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:53:45,861 INFO  main                             -  <<Out Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:53:45,861 INFO  main                             - Register Service - com.jx.product.service.ProductService:service10001
+2019-10-20 14:53:46,146 INFO  main                             - Registering component: reference:com.jx.user.service.UserService:service10001#-1187465999
+2019-10-20 14:53:46,146 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:53:47,878 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:53:47,878 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:53:47,881 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:53:47,883 INFO  main                             - Registering component: reference:com.jx.product.service.ProductService:service10001#-164819703
+2019-10-20 14:53:47,883 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:53:48,023 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:53:48,023 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:53:48,024 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 14:53:48,901 INFO  main                             - Registering component: service:com.jx.user.service.UserService:service10001
+2019-10-20 14:53:48,901 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:53:48,905 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:53:48,905 INFO  main                             -  <<Out Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 14:53:48,915 INFO  main                             -  <<Out Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 14:53:48,915 INFO  main                             - Register Service - com.jx.user.service.UserService:service10001
+2019-10-20 20:01:03,715 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 20:01:06,350 INFO  main                             - Registering component: reference:com.jx.product.service.ProductService:service10001#1907112596
+2019-10-20 20:01:06,350 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 20:01:07,612 INFO  main                             - SOFABoot Runtime Starting!
+2019-10-20 20:01:08,702 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 20:01:08,702 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 20:01:08,704 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 20:01:09,467 INFO  main                             - Registering component: reference:com.jx.user.service.UserService:service10001#1941044663
+2019-10-20 20:01:09,468 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 20:01:09,825 INFO  main                             - Registering component: service:com.jx.product.service.ProductService:service10001
+2019-10-20 20:01:09,825 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 20:01:09,830 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 20:01:09,831 INFO  main                             -  <<Out Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 20:01:09,846 INFO  main                             -  <<Out Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 20:01:09,846 INFO  main                             - Register Service - com.jx.product.service.ProductService:service10001
+2019-10-20 20:01:11,523 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 20:01:11,523 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 20:01:11,527 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 20:01:11,527 INFO  main                             - Registering component: reference:com.jx.product.service.ProductService:service10001#1941044663
+2019-10-20 20:01:11,527 INFO  main                             -  >>In Binding [bolt] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 20:01:11,677 INFO  main                             -  >>In Binding [bolt] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 20:01:11,677 INFO  main                             -  >>In Binding [jvm] Begins - com.jx.product.service.ProductService:service10001.
+2019-10-20 20:01:11,678 INFO  main                             -  >>In Binding [jvm] Ends - com.jx.product.service.ProductService:service10001.
+2019-10-20 20:01:12,754 INFO  main                             - Registering component: service:com.jx.user.service.UserService:service10001
+2019-10-20 20:01:12,754 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 20:01:12,757 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 20:01:12,757 INFO  main                             -  <<Out Binding [bolt] Begins - com.jx.user.service.UserService:service10001.
+2019-10-20 20:01:12,767 INFO  main                             -  <<Out Binding [bolt] Ends - com.jx.user.service.UserService:service10001.
+2019-10-20 20:01:12,767 INFO  main                             - Register Service - com.jx.user.service.UserService:service10001

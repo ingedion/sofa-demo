@@ -1,0 +1,177 @@
+2019-10-20 11:19:13,950 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:26416
+2019-10-20 11:19:13,967 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 11:19:13,982 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 11:19:14,294 INFO  main                             - The module lookout does not need to be loaded.
+2019-10-20 11:19:14,294 INFO  main                             - Install Module: sofaTracer
+2019-10-20 11:19:14,321 INFO  main                             - Refer consumer config : bolt://com.jx.user.service.UserService:service10001 with bean id rpc-cfg-0
+2019-10-20 11:19:45,562 INFO  main                             - Export provider config : com.jx.user.service.UserService:service10001:bolt with bean id rpc-cfg-1
+2019-10-20 11:19:46,245 INFO  main                             - service published.  interfaceId[com.jx.user.service.UserService]; protocol[bolt]
+2019-10-20 11:20:32,810 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:26728
+2019-10-20 11:20:32,822 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 11:20:32,838 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 11:20:33,154 INFO  main                             - The module lookout does not need to be loaded.
+2019-10-20 11:20:33,154 INFO  main                             - Install Module: sofaTracer
+2019-10-20 11:20:33,187 INFO  main                             - Refer consumer config : bolt://com.jx.user.service.UserService:service10001 with bean id rpc-cfg-0
+2019-10-20 11:21:04,371 INFO  main                             - Export provider config : com.jx.user.service.UserService:service10001:bolt with bean id rpc-cfg-1
+2019-10-20 11:21:05,034 INFO  main                             - service published.  interfaceId[com.jx.user.service.UserService]; protocol[bolt]
+2019-10-20 11:21:05,062 INFO  main                             - Unexport provider config : com.jx.user.service.UserService:service10001:bolt with bean id rpc-cfg-1
+2019-10-20 11:21:35,245 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:27600
+2019-10-20 11:21:35,255 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 11:21:35,268 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 11:21:35,567 INFO  main                             - The module lookout does not need to be loaded.
+2019-10-20 11:21:35,567 INFO  main                             - Install Module: sofaTracer
+2019-10-20 11:21:35,593 INFO  main                             - Refer consumer config : bolt://com.jx.user.service.UserService:service10001 with bean id rpc-cfg-0
+2019-10-20 11:22:06,863 INFO  main                             - Export provider config : com.jx.user.service.UserService:service10001:bolt with bean id rpc-cfg-1
+2019-10-20 11:22:07,579 INFO  main                             - service published.  interfaceId[com.jx.user.service.UserService]; protocol[bolt]
+2019-10-20 11:26:41,595 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:28976
+2019-10-20 11:26:41,605 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 11:26:41,619 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 11:26:41,904 INFO  main                             - The module lookout does not need to be loaded.
+2019-10-20 11:26:41,904 INFO  main                             - Install Module: sofaTracer
+2019-10-20 11:26:41,930 INFO  main                             - Refer consumer config : bolt://com.jx.user.service.UserService:service10001 with bean id rpc-cfg-0
+2019-10-20 11:27:13,029 INFO  main                             - Export provider config : com.jx.user.service.UserService:service10001:bolt with bean id rpc-cfg-1
+2019-10-20 11:27:13,649 INFO  main                             - service published.  interfaceId[com.jx.user.service.UserService]; protocol[bolt]
+2019-10-20 11:31:22,508 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:29284
+2019-10-20 11:31:22,518 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 11:31:22,532 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 11:31:22,814 INFO  main                             - The module lookout does not need to be loaded.
+2019-10-20 11:31:22,815 INFO  main                             - Install Module: sofaTracer
+2019-10-20 11:31:22,837 INFO  main                             - Refer consumer config : bolt://com.jx.user.service.UserService:service10001 with bean id rpc-cfg-0
+2019-10-20 11:31:54,144 INFO  main                             - Export provider config : com.jx.user.service.UserService:service10001:bolt with bean id rpc-cfg-1
+2019-10-20 11:31:54,772 INFO  main                             - service published.  interfaceId[com.jx.user.service.UserService]; protocol[bolt]
+2019-10-20 14:29:41,762 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:36272
+2019-10-20 14:29:41,826 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 14:29:41,848 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 14:29:42,428 INFO  main                             - The module lookout does not need to be loaded.
+2019-10-20 14:29:42,428 INFO  main                             - Install Module: sofaTracer
+2019-10-20 14:29:42,471 INFO  main                             - Refer consumer config : bolt://com.jx.product.service.ProductService:service10001 with bean id rpc-cfg-0
+2019-10-20 14:29:46,332 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:28024
+2019-10-20 14:29:46,345 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 14:29:46,361 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 14:29:46,663 INFO  main                             - The module lookout does not need to be loaded.
+2019-10-20 14:29:46,663 INFO  main                             - Install Module: sofaTracer
+2019-10-20 14:29:46,689 INFO  main                             - Refer consumer config : bolt://com.jx.user.service.UserService:service10001 with bean id rpc-cfg-0
+2019-10-20 14:30:13,793 INFO  main                             - Export provider config : com.jx.product.service.ProductService:service10001:bolt with bean id rpc-cfg-1
+2019-10-20 14:30:14,415 INFO  main                             - service published.  interfaceId[com.jx.product.service.ProductService]; protocol[bolt]
+2019-10-20 14:30:17,078 INFO  main                             - Refer consumer config : bolt://com.jx.product.service.ProductService:service10001 with bean id rpc-cfg-1
+2019-10-20 14:30:48,130 INFO  main                             - Export provider config : com.jx.user.service.UserService:service10001:bolt with bean id rpc-cfg-2
+2019-10-20 14:30:48,749 INFO  main                             - service published.  interfaceId[com.jx.user.service.UserService]; protocol[bolt]
+2019-10-20 14:31:22,368 INFO  http-nio-8082-exec-3             - Load tracer impl success: sofaTracer, com.alipay.sofa.rpc.tracer.sofatracer.RpcSofaTracer@770e20a9
+2019-10-20 14:33:17,858 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:38688
+2019-10-20 14:33:17,869 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 14:33:17,880 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 14:33:18,168 INFO  main                             - The module lookout does not need to be loaded.
+2019-10-20 14:33:18,168 INFO  main                             - Install Module: sofaTracer
+2019-10-20 14:33:18,193 INFO  main                             - Refer consumer config : bolt://com.jx.user.service.UserService:service10001 with bean id rpc-cfg-0
+2019-10-20 14:33:48,546 INFO  main                             - Refer consumer config : bolt://com.jx.product.service.ProductService:service10001 with bean id rpc-cfg-1
+2019-10-20 14:34:19,462 INFO  main                             - Export provider config : com.jx.user.service.UserService:service10001:bolt with bean id rpc-cfg-2
+2019-10-20 14:34:20,110 INFO  main                             - service published.  interfaceId[com.jx.user.service.UserService]; protocol[bolt]
+2019-10-20 14:34:34,394 INFO  http-nio-8082-exec-10            - Load tracer impl success: sofaTracer, com.alipay.sofa.rpc.tracer.sofatracer.RpcSofaTracer@69bed09d
+2019-10-20 14:42:06,658 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:40084
+2019-10-20 14:42:06,667 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 14:42:06,680 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 14:42:06,971 INFO  main                             - The module lookout does not need to be loaded.
+2019-10-20 14:42:06,971 INFO  main                             - Install Module: sofaTracer
+2019-10-20 14:42:06,998 INFO  main                             - Refer consumer config : bolt://com.jx.user.service.UserService:service10001 with bean id rpc-cfg-0
+2019-10-20 14:42:37,327 INFO  main                             - Refer consumer config : bolt://com.jx.product.service.ProductService:service10001 with bean id rpc-cfg-1
+2019-10-20 14:43:08,192 INFO  main                             - Export provider config : com.jx.user.service.UserService:service10001:bolt with bean id rpc-cfg-2
+2019-10-20 14:43:08,804 INFO  main                             - service published.  interfaceId[com.jx.user.service.UserService]; protocol[bolt]
+2019-10-20 14:43:15,374 INFO  http-nio-8082-exec-1             - Load tracer impl success: sofaTracer, com.alipay.sofa.rpc.tracer.sofatracer.RpcSofaTracer@45a61740
+2019-10-20 14:45:01,322 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:39652
+2019-10-20 14:45:01,336 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 14:45:01,351 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 14:45:01,784 INFO  main                             - The module lookout does not need to be loaded.
+2019-10-20 14:45:01,784 INFO  main                             - Install Module: sofaTracer
+2019-10-20 14:45:01,829 INFO  main                             - Refer consumer config : bolt://com.jx.product.service.ProductService:service10001 with bean id rpc-cfg-0
+2019-10-20 14:45:04,359 INFO  main                             - Export provider config : com.jx.product.service.ProductService:service10001:bolt with bean id rpc-cfg-1
+2019-10-20 14:45:04,441 INFO  main                             - service published.  interfaceId[com.jx.product.service.ProductService]; protocol[bolt]
+2019-10-20 14:45:04,498 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:40712
+2019-10-20 14:45:04,507 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 14:45:04,518 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 14:45:04,915 INFO  main                             - The module lookout does not need to be loaded.
+2019-10-20 14:45:04,915 INFO  main                             - Install Module: sofaTracer
+2019-10-20 14:45:04,954 INFO  main                             - Refer consumer config : bolt://com.jx.user.service.UserService:service10001 with bean id rpc-cfg-0
+2019-10-20 14:45:06,172 INFO  main                             - Refer consumer config : bolt://com.jx.product.service.ProductService:service10001 with bean id rpc-cfg-1
+2019-10-20 14:45:07,146 INFO  main                             - Export provider config : com.jx.user.service.UserService:service10001:bolt with bean id rpc-cfg-2
+2019-10-20 14:45:07,209 INFO  main                             - service published.  interfaceId[com.jx.user.service.UserService]; protocol[bolt]
+2019-10-20 14:45:25,541 INFO  http-nio-8082-exec-3             - Load tracer impl success: sofaTracer, com.alipay.sofa.rpc.tracer.sofatracer.RpcSofaTracer@5475913c
+2019-10-20 14:45:25,929 INFO  SOFA-SEV-BOLT-BIZ-22201-4-T1     - Load tracer impl success: sofaTracer, com.alipay.sofa.rpc.tracer.sofatracer.RpcSofaTracer@14df6516
+2019-10-20 14:48:35,711 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:40900
+2019-10-20 14:48:35,736 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 14:48:35,763 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 14:48:36,173 INFO  main                             - The module lookout does not need to be loaded.
+2019-10-20 14:48:36,173 INFO  main                             - Install Module: sofaTracer
+2019-10-20 14:48:36,219 INFO  main                             - Refer consumer config : bolt://com.jx.product.service.ProductService:service10001 with bean id rpc-cfg-0
+2019-10-20 14:48:39,057 INFO  main                             - Export provider config : com.jx.product.service.ProductService:service10001:bolt with bean id rpc-cfg-1
+2019-10-20 14:48:39,145 INFO  main                             - service published.  interfaceId[com.jx.product.service.ProductService]; protocol[bolt]
+2019-10-20 14:48:40,600 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:43016
+2019-10-20 14:48:40,611 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 14:48:40,623 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 14:48:40,917 INFO  main                             - The module lookout does not need to be loaded.
+2019-10-20 14:48:40,918 INFO  main                             - Install Module: sofaTracer
+2019-10-20 14:48:40,941 INFO  main                             - Refer consumer config : bolt://com.jx.user.service.UserService:service10001 with bean id rpc-cfg-0
+2019-10-20 14:48:42,025 INFO  main                             - Refer consumer config : bolt://com.jx.product.service.ProductService:service10001 with bean id rpc-cfg-1
+2019-10-20 14:48:43,010 INFO  main                             - Export provider config : com.jx.user.service.UserService:service10001:bolt with bean id rpc-cfg-2
+2019-10-20 14:48:43,072 INFO  main                             - service published.  interfaceId[com.jx.user.service.UserService]; protocol[bolt]
+2019-10-20 14:49:01,066 INFO  http-nio-8082-exec-3             - Load tracer impl success: sofaTracer, com.alipay.sofa.rpc.tracer.sofatracer.RpcSofaTracer@372468df
+2019-10-20 14:49:01,506 INFO  SOFA-SEV-BOLT-BIZ-22201-4-T1     - Load tracer impl success: sofaTracer, com.alipay.sofa.rpc.tracer.sofatracer.RpcSofaTracer@33a6ab64
+2019-10-20 14:51:14,512 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:43692
+2019-10-20 14:51:14,522 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 14:51:14,538 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 14:51:14,895 INFO  main                             - The module lookout does not need to be loaded.
+2019-10-20 14:51:14,895 INFO  main                             - Install Module: sofaTracer
+2019-10-20 14:51:14,921 INFO  main                             - Refer consumer config : bolt://com.jx.product.service.ProductService:service10001 with bean id rpc-cfg-0
+2019-10-20 14:51:17,751 INFO  main                             - Export provider config : com.jx.product.service.ProductService:service10001:bolt with bean id rpc-cfg-1
+2019-10-20 14:51:17,827 INFO  main                             - service published.  interfaceId[com.jx.product.service.ProductService]; protocol[bolt]
+2019-10-20 14:51:19,168 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:39812
+2019-10-20 14:51:19,179 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 14:51:19,190 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 14:51:19,659 INFO  main                             - The module lookout does not need to be loaded.
+2019-10-20 14:51:19,660 INFO  main                             - Install Module: sofaTracer
+2019-10-20 14:51:19,692 INFO  main                             - Refer consumer config : bolt://com.jx.user.service.UserService:service10001 with bean id rpc-cfg-0
+2019-10-20 14:51:20,758 INFO  main                             - Refer consumer config : bolt://com.jx.product.service.ProductService:service10001 with bean id rpc-cfg-1
+2019-10-20 14:51:21,804 INFO  main                             - Export provider config : com.jx.user.service.UserService:service10001:bolt with bean id rpc-cfg-2
+2019-10-20 14:51:21,887 INFO  main                             - service published.  interfaceId[com.jx.user.service.UserService]; protocol[bolt]
+2019-10-20 14:51:38,032 INFO  http-nio-8082-exec-4             - Load tracer impl success: sofaTracer, com.alipay.sofa.rpc.tracer.sofatracer.RpcSofaTracer@52ed9373
+2019-10-20 14:51:38,417 INFO  SOFA-SEV-BOLT-BIZ-22201-4-T1     - Load tracer impl success: sofaTracer, com.alipay.sofa.rpc.tracer.sofatracer.RpcSofaTracer@276bd991
+2019-10-20 14:53:34,618 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:44836
+2019-10-20 14:53:34,632 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 14:53:34,647 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 14:53:42,928 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:43880
+2019-10-20 14:53:42,940 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 14:53:42,955 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 14:53:43,327 INFO  main                             - The module lookout does not need to be loaded.
+2019-10-20 14:53:43,328 INFO  main                             - Install Module: sofaTracer
+2019-10-20 14:53:43,379 INFO  main                             - Refer consumer config : bolt://com.jx.product.service.ProductService:service10001 with bean id rpc-cfg-0
+2019-10-20 14:53:45,848 INFO  main                             - Export provider config : com.jx.product.service.ProductService:service10001:bolt with bean id rpc-cfg-1
+2019-10-20 14:53:45,922 INFO  main                             - service published.  interfaceId[com.jx.product.service.ProductService]; protocol[bolt]
+2019-10-20 14:53:46,235 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:39076
+2019-10-20 14:53:46,247 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 14:53:46,259 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 14:53:46,618 INFO  main                             - The module lookout does not need to be loaded.
+2019-10-20 14:53:46,618 INFO  main                             - Install Module: sofaTracer
+2019-10-20 14:53:46,651 INFO  main                             - Refer consumer config : bolt://com.jx.user.service.UserService:service10001 with bean id rpc-cfg-0
+2019-10-20 14:53:47,883 INFO  main                             - Refer consumer config : bolt://com.jx.product.service.ProductService:service10001 with bean id rpc-cfg-1
+2019-10-20 14:53:48,908 INFO  main                             - Export provider config : com.jx.user.service.UserService:service10001:bolt with bean id rpc-cfg-2
+2019-10-20 14:53:48,970 INFO  main                             - service published.  interfaceId[com.jx.user.service.UserService]; protocol[bolt]
+2019-10-20 14:54:06,635 INFO  http-nio-8082-exec-4             - Load tracer impl success: sofaTracer, com.alipay.sofa.rpc.tracer.sofatracer.RpcSofaTracer@7ebcc60d
+2019-10-20 14:54:07,032 INFO  SOFA-SEV-BOLT-BIZ-22201-4-T1     - Load tracer impl success: sofaTracer, com.alipay.sofa.rpc.tracer.sofatracer.RpcSofaTracer@66f446d8
+2019-10-20 20:01:06,565 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:30380
+2019-10-20 20:01:06,599 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 20:01:06,637 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 20:01:07,317 INFO  main                             - The module lookout does not need to be loaded.
+2019-10-20 20:01:07,317 INFO  main                             - Install Module: sofaTracer
+2019-10-20 20:01:07,362 INFO  main                             - Refer consumer config : bolt://com.jx.product.service.ProductService:service10001 with bean id rpc-cfg-0
+2019-10-20 20:01:09,550 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.5.4_20190530201038, PID is:22576
+2019-10-20 20:01:09,562 INFO  main                             - Install Module: fault-tolerance
+2019-10-20 20:01:09,578 INFO  main                             - Install Module: sofaTracer-resteasy
+2019-10-20 20:01:09,836 INFO  main                             - Export provider config : com.jx.product.service.ProductService:service10001:bolt with bean id rpc-cfg-1
+2019-10-20 20:01:09,933 INFO  main                             - service published.  interfaceId[com.jx.product.service.ProductService]; protocol[bolt]
+2019-10-20 20:01:09,984 INFO  main                             - The module lookout does not need to be loaded.
+2019-10-20 20:01:09,984 INFO  main                             - Install Module: sofaTracer
+2019-10-20 20:01:10,023 INFO  main                             - Refer consumer config : bolt://com.jx.user.service.UserService:service10001 with bean id rpc-cfg-0
+2019-10-20 20:01:11,528 INFO  main                             - Refer consumer config : bolt://com.jx.product.service.ProductService:service10001 with bean id rpc-cfg-1
+2019-10-20 20:01:12,760 INFO  main                             - Export provider config : com.jx.user.service.UserService:service10001:bolt with bean id rpc-cfg-2
+2019-10-20 20:01:12,820 INFO  main                             - service published.  interfaceId[com.jx.user.service.UserService]; protocol[bolt]
+2019-10-20 20:02:18,254 INFO  http-nio-8082-exec-9             - Load tracer impl success: sofaTracer, com.alipay.sofa.rpc.tracer.sofatracer.RpcSofaTracer@4b049cd3
+2019-10-20 20:02:18,772 INFO  SOFA-SEV-BOLT-BIZ-22201-4-T1     - Load tracer impl success: sofaTracer, com.alipay.sofa.rpc.tracer.sofatracer.RpcSofaTracer@290932c

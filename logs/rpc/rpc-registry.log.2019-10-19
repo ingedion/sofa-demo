@@ -1,0 +1,25 @@
+2019-10-19 20:09:31,997 INFO  ObserverNotifyThread-2-thread-1  com.alipay.sofa.rpc.registry.sofa.SofaRegistrySubscribeCallback - RPC-00204: 接收 RPC 服务地址：服务名[com.jx.product.service.ProductService:1.0:service10001@DEFAULT]
+  可调用目标地址[0]个
+ 
+2019-10-19 20:09:32,013 INFO  ObserverNotifyThread-2-thread-2  com.alipay.sofa.rpc.registry.sofa.SofaRegistrySubscribeCallback - Receive RPC config info: service[com.jx.product.service.ProductService:1.0:service10001@DEFAULT]
+  usable config info[0]
+
+2019-10-19 20:09:32,590 WARN  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistryHelper - Virtual host is specified, host will be change from 0.0.0.0 to 192.168.43.12 when register
+2019-10-19 20:09:32,590 INFO  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistry - RPC-00205: RPC 服务[com.jx.product.service.ProductService:1.0:service10001@DEFAULT]发布开始 
+2019-10-19 20:09:32,590 INFO  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistry - RPC-00206: RPC 服务[com.jx.product.service.ProductService:1.0:service10001@DEFAULT]发布结束 
+2019-10-19 20:09:33,229 INFO  ObserverNotifyThread-2-thread-3  com.alipay.sofa.rpc.registry.sofa.SofaRegistrySubscribeCallback - RPC-00204: 接收 RPC 服务地址：服务名[com.jx.product.service.ProductService:1.0:service10001@DEFAULT]
+  可调用目标地址[1]个
+  --- DEFAULT_ZONE
+   >>> 192.168.43.12:22201?rpcVer=50504&serialization=hessian2&weight=100&timeout=3000&appName=product&p=1&v=4.0&_SERIALIZETYPE=hessian2&_WEIGHT=100&_TIMEOUT=3000&app_name=product&startTime=1571486972590
+ 
+2019-10-19 20:10:01,862 INFO  ObserverNotifyThread-2-thread-4  com.alipay.sofa.rpc.registry.sofa.SofaRegistrySubscribeCallback - RPC-00204: 接收 RPC 服务地址：服务名[com.jx.product.service.ProductService:1.0:service10001@DEFAULT]
+  可调用目标地址[1]个
+  --- DEFAULT_ZONE
+   >>> 192.168.43.12:22201?rpcVer=50504&serialization=hessian2&weight=100&timeout=3000&appName=product&p=1&v=4.0&_SERIALIZETYPE=hessian2&_WEIGHT=100&_TIMEOUT=3000&app_name=product&startTime=1571486972590
+ 
+2019-10-19 20:42:51,508 WARN  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistryHelper - Virtual host is specified, host will be change from 0.0.0.0 to 192.168.6.101 when register
+2019-10-19 20:42:51,512 INFO  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistry - RPC-00205: RPC 服务[com.jx.product.service.ProductService:1.0:service10001@DEFAULT]发布开始 
+2019-10-19 20:42:51,514 INFO  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistry - RPC-00206: RPC 服务[com.jx.product.service.ProductService:1.0:service10001@DEFAULT]发布结束 
+2019-10-19 21:34:31,800 WARN  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistryHelper - Virtual host is specified, host will be change from 0.0.0.0 to 192.168.6.101 when register
+2019-10-19 21:34:31,803 INFO  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistry - RPC-00205: RPC 服务[com.jx.product.service.ProductService:1.0:service10001@DEFAULT]发布开始 
+2019-10-19 21:34:31,805 INFO  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistry - RPC-00206: RPC 服务[com.jx.product.service.ProductService:1.0:service10001@DEFAULT]发布结束 
